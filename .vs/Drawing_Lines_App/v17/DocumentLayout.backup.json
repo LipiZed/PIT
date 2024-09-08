@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{547DFD42-DB4F-4A2C-BCD0-F5EBB8A65F79}|Drawing_Lines_App\\Drawing_Lines_App.csproj|c:\\users\\gaming pc\\source\\repos\\drawing_lines_app\\drawing_lines_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547DFD42-DB4F-4A2C-BCD0-F5EBB8A65F79}|Drawing_Lines_App\\Drawing_Lines_App.csproj|solutionrelative:drawing_lines_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547DFD42-DB4F-4A2C-BCD0-F5EBB8A65F79}|Drawing_Lines_App\\Drawing_Lines_App.csproj|c:\\users\\gaming pc\\source\\repos\\drawing_lines_app\\drawing_lines_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547DFD42-DB4F-4A2C-BCD0-F5EBB8A65F79}|Drawing_Lines_App\\Drawing_Lines_App.csproj|solutionrelative:drawing_lines_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547DFD42-DB4F-4A2C-BCD0-F5EBB8A65F79}|Drawing_Lines_App\\Drawing_Lines_App.csproj|C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\drawing_lines_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{547DFD42-DB4F-4A2C-BCD0-F5EBB8A65F79}|Drawing_Lines_App\\Drawing_Lines_App.csproj|solutionrelative:drawing_lines_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{547DFD42-DB4F-4A2C-BCD0-F5EBB8A65F79}|Drawing_Lines_App\\Drawing_Lines_App.csproj|C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\drawing_lines_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{547DFD42-DB4F-4A2C-BCD0-F5EBB8A65F79}|Drawing_Lines_App\\Drawing_Lines_App.csproj|solutionrelative:drawing_lines_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\Drawing_Lines_App\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Drawing_Lines_App\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\Drawing_Lines_App\\Form1.Designer.cs",
+              "RelativeToolTip": "Drawing_Lines_App\\Form1.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:48:27.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\Drawing_Lines_App\\Program.cs",
+              "RelativeDocumentMoniker": "Drawing_Lines_App\\Program.cs",
+              "ToolTip": "C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\Drawing_Lines_App\\Program.cs",
+              "RelativeToolTip": "Drawing_Lines_App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:11:29.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\Drawing_Lines_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Drawing_Lines_App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\Drawing_Lines_App\\Form1.cs",
+              "RelativeToolTip": "Drawing_Lines_App\\Form1.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAhwLYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:02:15.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\Drawing_Lines_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Drawing_Lines_App\\Form1.cs",
+              "ToolTip": "C:\\Users\\Gaming PC\\source\\repos\\Drawing_Lines_App\\Drawing_Lines_App\\Form1.cs [Design]",
+              "RelativeToolTip": "Drawing_Lines_App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T18:02:06.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
